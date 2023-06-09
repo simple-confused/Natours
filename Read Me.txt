@@ -1,0 +1,1 @@
+This project is made by me after completing course of Jonas Schmedtmann. The designs are owned by him only. I have done it to learn new properties and get my hand on development. For now this is only desktop version and i am working over its media queries for now
